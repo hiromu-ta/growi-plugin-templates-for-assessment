@@ -1,4 +1,4 @@
-# GROWI Plugin Templates for Office
+# GROWI Plugin Templates for assessment
 
-- conference.md
-- pressrelease.md
+- assessment-seat.md
+- target-management-seat.md
